@@ -1,0 +1,15 @@
+C:\Users\rafael.deroncio\Desktop\Rafael\DIO\entregas-desafios\dio-trilha-net-tdd-desafio\wex.trilha\wex.trilha.console\bin\Debug\net7.0\wex.trilha.console.exe
+C:\Users\rafael.deroncio\Desktop\Rafael\DIO\entregas-desafios\dio-trilha-net-tdd-desafio\wex.trilha\wex.trilha.console\bin\Debug\net7.0\wex.trilha.console.deps.json
+C:\Users\rafael.deroncio\Desktop\Rafael\DIO\entregas-desafios\dio-trilha-net-tdd-desafio\wex.trilha\wex.trilha.console\bin\Debug\net7.0\wex.trilha.console.runtimeconfig.json
+C:\Users\rafael.deroncio\Desktop\Rafael\DIO\entregas-desafios\dio-trilha-net-tdd-desafio\wex.trilha\wex.trilha.console\bin\Debug\net7.0\wex.trilha.console.dll
+C:\Users\rafael.deroncio\Desktop\Rafael\DIO\entregas-desafios\dio-trilha-net-tdd-desafio\wex.trilha\wex.trilha.console\bin\Debug\net7.0\wex.trilha.console.pdb
+C:\Users\rafael.deroncio\Desktop\Rafael\DIO\entregas-desafios\dio-trilha-net-tdd-desafio\wex.trilha\wex.trilha.console\obj\Debug\net7.0\wex.trilha.console.csproj.AssemblyReference.cache
+C:\Users\rafael.deroncio\Desktop\Rafael\DIO\entregas-desafios\dio-trilha-net-tdd-desafio\wex.trilha\wex.trilha.console\obj\Debug\net7.0\wex.trilha.console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.deroncio\Desktop\Rafael\DIO\entregas-desafios\dio-trilha-net-tdd-desafio\wex.trilha\wex.trilha.console\obj\Debug\net7.0\wex.trilha.console.AssemblyInfoInputs.cache
+C:\Users\rafael.deroncio\Desktop\Rafael\DIO\entregas-desafios\dio-trilha-net-tdd-desafio\wex.trilha\wex.trilha.console\obj\Debug\net7.0\wex.trilha.console.AssemblyInfo.cs
+C:\Users\rafael.deroncio\Desktop\Rafael\DIO\entregas-desafios\dio-trilha-net-tdd-desafio\wex.trilha\wex.trilha.console\obj\Debug\net7.0\wex.trilha.console.csproj.CoreCompileInputs.cache
+C:\Users\rafael.deroncio\Desktop\Rafael\DIO\entregas-desafios\dio-trilha-net-tdd-desafio\wex.trilha\wex.trilha.console\obj\Debug\net7.0\wex.trilha.console.dll
+C:\Users\rafael.deroncio\Desktop\Rafael\DIO\entregas-desafios\dio-trilha-net-tdd-desafio\wex.trilha\wex.trilha.console\obj\Debug\net7.0\refint\wex.trilha.console.dll
+C:\Users\rafael.deroncio\Desktop\Rafael\DIO\entregas-desafios\dio-trilha-net-tdd-desafio\wex.trilha\wex.trilha.console\obj\Debug\net7.0\wex.trilha.console.pdb
+C:\Users\rafael.deroncio\Desktop\Rafael\DIO\entregas-desafios\dio-trilha-net-tdd-desafio\wex.trilha\wex.trilha.console\obj\Debug\net7.0\wex.trilha.console.genruntimeconfig.cache
+C:\Users\rafael.deroncio\Desktop\Rafael\DIO\entregas-desafios\dio-trilha-net-tdd-desafio\wex.trilha\wex.trilha.console\obj\Debug\net7.0\ref\wex.trilha.console.dll

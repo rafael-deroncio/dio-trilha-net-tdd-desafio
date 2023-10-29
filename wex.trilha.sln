@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wex.trilha.test", "wex.trilha.test\wex.trilha.test.csproj", "{AE245599-578F-4A88-A1DD-EB5510B3ED47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wex.trilha.console", "wex.trilha.console\wex.trilha.console.csproj", "{4A267431-DABE-4BD1-B129-3743A8EAC8C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE245599-578F-4A88-A1DD-EB5510B3ED47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE245599-578F-4A88-A1DD-EB5510B3ED47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE245599-578F-4A88-A1DD-EB5510B3ED47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE245599-578F-4A88-A1DD-EB5510B3ED47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A267431-DABE-4BD1-B129-3743A8EAC8C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A267431-DABE-4BD1-B129-3743A8EAC8C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A267431-DABE-4BD1-B129-3743A8EAC8C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A267431-DABE-4BD1-B129-3743A8EAC8C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46DCAE7A-4EE5-4A6F-A19D-6965791358A8}
+	EndGlobalSection
+EndGlobal
